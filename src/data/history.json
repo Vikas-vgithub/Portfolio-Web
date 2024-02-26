@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Full stack Developer Intern",
+    "organisation": "NXP Semiconductors",
+    "startDate": "May, 2023",
+    "endDate": "Aug, 2023",
+    "experiences": ["Worked on E-commerce Website", "Reduced load times by 50%"],
+    "imageSrc": "history/nx.jpg"
+  },
+  {
+    "role": "Data Analyst Intern",
+    "organisation": "KRG Consultancy",
+    "startDate": "Jan, 2023",
+    "endDate": "April, 2023",
+    "experiences": ["Worked on project 'Analysis of Fintech across the world", "visualize the data and get insights from it"],
+    "imageSrc": "history/krg.jpg"
+  }
+  
+]

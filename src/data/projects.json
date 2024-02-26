@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Video Conferencing Web App",
+    "imageSrc": "projects/project.png",
+    "description": " Django based Meeting web-app on which anyone can do real time meets.",
+    "skills": ["Django", "Zegocloud", "JavaScript"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vikas-vgithub"
+  },
+  {
+    "title": "E-Commerce",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Fully Functional E-commerce web with payment and shipping integration.",
+    "skills": ["Django", "Bootstrap", "JavaScript","sqlite"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vikas-vgithub"
+  },
+  {
+    "title": "Number Plate Recognition System",
+    "imageSrc": "projects/project.png",
+    "description": "A ML model that can read the number plate of a car and can store it.",
+    "skills": ["Machine Learning", "Python"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Vikas-vgithub"
+  }
+]
